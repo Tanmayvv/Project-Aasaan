@@ -1,7 +1,7 @@
 # Project-Aasaan
 Developed and implemented a mobile application focused on helping older and differently abled people to efficiently locate all important services within a smartphone using ML. 
 
-Applied various techniques to locate bugs and errors in application.
+Applied various techniques to locate bugs and errors in the application.
 
 Handy and easy to use app for older &amp; differently abled people.
 
